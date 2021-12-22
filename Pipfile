@@ -16,6 +16,7 @@ marshmallow-sqlalchemy = "*"
 [dev-packages]
 pylint = "*"
 nose = "*"
+flask-testing = "*"
 
 [requires]
 python_version = "3.8"
